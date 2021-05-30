@@ -1,2 +1,1 @@
-# hello-clojure
-Hello, Clojure!
+# Hello, Clojure!
